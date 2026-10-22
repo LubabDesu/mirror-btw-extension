@@ -9,7 +9,7 @@ tools and it does not touch the main chat.
 Review `extension.py`, then enter this command **inside Mirror**:
 
 ```text
-/extensions-add https://github.com/<your-user>/mirror-btw-extension
+/extensions-add https://github.com/LubabDesu/mirror-btw-extension
 ```
 
 Mirror downloads the repository and asks for consent. Select **Enable**.
